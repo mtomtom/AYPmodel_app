@@ -11,7 +11,7 @@ from p2_functions.leafhoppers_class import Leafhoppers
 from p2_functions.plants_class import Plants
 
 st.set_page_config(layout="wide")
-st.title('Vector pathogen model')
+st.title('Leafhopper pathogen model')
 
 ## Add in the parameter options - organise into sections
 with st.expander("Main parameters"):
